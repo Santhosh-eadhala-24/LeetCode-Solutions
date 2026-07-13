@@ -8,11 +8,13 @@ class Solution:
 
             if nums[mid] ==  target:
                 return mid
+            #left rotated
             if nums[low] <= nums[mid]:
                 if target >= nums[low] and target <= nums[mid]:
                     high = mid - 1
                 else:
                     low = mid + 1
+            #ryt rotated
             else:
                 if target >= nums[mid] and target <= nums[high]:
                    low = mid + 1
