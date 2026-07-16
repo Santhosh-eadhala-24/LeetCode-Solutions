@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1901-find-a-peak-element-ii](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1901-find-a-peak-element-ii](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+## Matrix
+|  |
+| ------- |
+| [1901-find-a-peak-element-ii](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
