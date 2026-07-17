@@ -118,8 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Matrix
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
