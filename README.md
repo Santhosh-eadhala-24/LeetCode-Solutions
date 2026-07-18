@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
