@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
