@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -99,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
