@@ -4,8 +4,6 @@ class Solution:
 
         for i in range(len(nums)):
             if(nums[i] != 0):
-                tmp = nums[i]
-                nums[i]=nums[l]
-                nums[l]=tmp
+                nums[i], nums[l] = nums[l], nums[i]
                 l+=1
         
