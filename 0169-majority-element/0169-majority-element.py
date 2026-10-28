@@ -1,26 +1,15 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         
-        n = len(nums)
-        cunt = 0
-        for i in range(n):
-            if cunt == 0:
-                cunt = 1
-                ele = nums[i]
+        cnt = 0
 
-            elif nums[i] == ele :
-                cunt += 1
-            
+        for i in range(len(nums)):
+            if cnt == 0:
+                a = nums[i]
+
+            if nums[i] == a:
+                cnt += 1
             else:
-                cunt -= 1
+                cnt -= 1
 
-        cunt1 = 0
-
-        for i in range(n):
-            if nums[i] == ele:
-                cunt1 += 1
-
-        if cunt1 > n/2:
-            return ele
-
-        
+        return a
