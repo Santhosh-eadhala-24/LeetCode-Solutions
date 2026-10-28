@@ -175,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Santhosh-eadhala-24/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
