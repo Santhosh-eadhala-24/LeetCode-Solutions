@@ -1,26 +1,20 @@
 class Solution:
-    def swap(self,nums,i,j):
-        tmp = nums[i]
-        nums[i] = nums[j]
-        nums[j] = tmp
-    
-    def sortColors(self, nums: List[int]) -> None:
+    def sortColors(self, nums: list[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
         """
-
+        mid = 0 
         low = 0
-        mid = 0
         high = len(nums) - 1
 
-        while(mid <= high):
+        while mid <= high:
             if nums[mid] == 0:
-                self.swap(nums,low,mid)
+                nums[mid], nums[low] = nums[low], nums[mid]
                 low += 1
                 mid += 1
             elif nums[mid] == 1:
                 mid += 1
             else:
-                self.swap(nums,mid,high)
+                nums[mid], nums[high] = nums[high], nums[mid]
                 high -= 1
-        
+            
